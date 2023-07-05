@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/github/last-commit/DevFeed404/DevFeed-1.0?style=for-the-badge" />
  </div>
  
- <h5 allign="center"> Created by swarnavo with CodeSandbox </h5>
+ <h3 align="center"> Created by SWARNAVO with CodeSandbox </h3>
  
  # This project is a part of the following Open Source Program!
  
