@@ -29,7 +29,7 @@ solution.addEventListener("click", function () {
 });
 
 const htmlSolution =
-  '<iframe width="1500" height="650" src="http://localhost:3000/" frameborder="0" allowfullscreen>\n</iframe>\n\n<iframe  frameborder="0" style="border:0" allowfullscreen>\n</iframe>';
+  '<iframe width="1500" height="800" src="http://localhost:3000/" frameborder="0" allowfullscreen>\n</iframe>\n\n<iframe  frameborder="0" style="border:0" allowfullscreen>\n</iframe>';
 let solutionEntry = htmlSolution;
 
 textarea.addEventListener("input", updateCode);
